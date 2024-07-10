@@ -29,11 +29,6 @@ Here are some ideas to get you started:
   <img title="CSS3" height="40px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
   <img title="MySQL" height="40px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
   <img title="PostgreSQL" height="40px" src="https://img.icons8.com/?size=100&id=38561&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
- 
-
-    
-
-
   <img title="Git" height="40px" src="https://user-images.githubusercontent.com/85930567/155733391-1cad1bbc-b9d6-4fd9-91c2-37f778f88a96.png" /> &nbsp;&nbsp;&nbsp;
   <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
   
