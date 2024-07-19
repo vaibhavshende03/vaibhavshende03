@@ -1,20 +1,24 @@
 ### Hi there 👋
 
-I am a B.Tech pursuing student with a passion for software engineering. Here are some of my skills:
+ I am a B.Tech graduate in Software Engineering, with a passion for software engineering.
+ <br>Here are some of my skills:
 
 - **HTML** and **CSS**: I have a good command over front-end web development.
 - **DBMS**: I am familiar with both **MySQL** and **PostgreSQL**.
 - **C++**: I enjoy working with this powerful programming language.
 - **Python**: I love its versatility and use it for various projects.
+- **Java**: Developing foundational skills in building reliable applications.
+- **Git**: Proficient in version control and collaboration.
+- **GitHub**: Experienced in managing repositories and collaborating on projects.
 
-I am always eager to learn and adapt to new technologies. Let's connect and collaborate! 😊
+I am always eager to learn new technologies and take on challenging projects. Feel free to connect with me to discuss potential opportunities or collaborations! 😊
 <!--
 **vaibhavshende03/vaibhavshende03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on on increasing my skillset.
-- 🎓 I'm in my senoir year pursuing a graduate degree in CS.
+- 🎓 I have completed my graduation in 2024 with a degree in Computer Science.
 - 😄 Pronouns:  He/Him
 
 ## Languages/Tools I can work with
