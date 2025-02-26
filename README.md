@@ -27,7 +27,7 @@ Feel free to connect with me for collaboration or any exciting opportunities! ðŸ
  
   <img title="Java" height="40px" src="https://img.icons8.com/?size=100&id=13679&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
   <img title="Hibernate Framework" height="40px" src="https://github.com/user-attachments/assets/62f83b54-a703-46ee-9162-799d6c6b2eef"/> &nbsp;&nbsp;&nbsp;
-  <img title="Hibernate Framework" height="40px" src="https://github.com/user-attachments/assets/81e9a23a-c6cb-4940-b14e-b73a95b9dc8f"/> &nbsp;&nbsp;&nbsp;
+  <img title="Spring Framework" height="40px" src="https://github.com/user-attachments/assets/81e9a23a-c6cb-4940-b14e-b73a95b9dc8f"/> &nbsp;&nbsp;&nbsp;
   <img title="HTML 5" height="40px" src="https://img.icons8.com/?size=100&id=20909&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
   <img title="CSS3" height="40px" src="https://img.icons8.com/?size=100&id=21278&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
   <img title="MySQL" height="40px" src="https://img.icons8.com/?size=100&id=UFXRpPFebwa2&format=png&color=000000"/> &nbsp;&nbsp;&nbsp;
