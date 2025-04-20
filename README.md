@@ -37,7 +37,7 @@ Feel free to connect with me for collaboration or any exciting opportunities! ðŸ
   <img title="VS Code" height="40px" src="https://img.icons8.com/fluency/144/000000/visual-studio-code-2019.png"/> &nbsp;&nbsp;&nbsp;
     </br>
   # ðŸ“Š GitHub Stats:
-  ![vaibhavshende03's Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshende03&theme=react&show_icons=true&hide_border=true&count_private=true)
-  ![vaibhavshende03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshende03&theme=react&hide_border=true)
-  ![vaibhavshende03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshende03&theme=react&show_icons=true&hide_border=true&layout=compact)
+  ![vaibhavshende03's Stats](https://github-readme-stats.vercel.app/api?username=vaibhavshende03&theme=react&show_icons=true&hide_border=true&count_private=true)<br>
+  ![vaibhavshende03's Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaibhavshende03&theme=react&hide_border=true)<br>
+  ![vaibhavshende03's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhavshende03&theme=react&show_icons=true&hide_border=true&layout=compact)<br>
 
